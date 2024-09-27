@@ -1,7 +1,7 @@
 
 # AIMPyfly
 
-This project implements an AIM (AOL Instant Messenger) client using the OSCAR protocol. The code facilitates connecting to the AIM service, sending and receiving instant messages, and provides the groundwork for further functionality.
+This project implements an AIM (AOL Instant Messenger) client using the OSCAR protocol. The library currently facilitates connecting to the AIM service, sending and receiving instant messages, and provides the groundwork for further/future functionality.
 
 ## Features
 
