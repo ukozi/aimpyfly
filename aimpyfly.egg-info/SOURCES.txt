@@ -1,0 +1,11 @@
+README.md
+setup.py
+aimpyfly/__init__.py
+aimpyfly/aim_client.py
+aimpyfly/log_utils.py
+aimpyfly/oscar_protocol.py
+aimpyfly.egg-info/PKG-INFO
+aimpyfly.egg-info/SOURCES.txt
+aimpyfly.egg-info/dependency_links.txt
+aimpyfly.egg-info/requires.txt
+aimpyfly.egg-info/top_level.txt
